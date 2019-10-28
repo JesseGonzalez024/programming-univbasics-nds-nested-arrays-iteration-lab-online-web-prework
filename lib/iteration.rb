@@ -36,6 +36,7 @@ def total_even_pairs(src)
       total += array[0] + array[1]
   end
   
+    
     total
     end
     
