@@ -31,9 +31,9 @@ def total_even_pairs(src)
       
       
   src.each { |array|
-    if array[0] % 2 == 0 &
+    if array[0] % 2 == 0 & 
       
-    array[1] % 2 == 0
+    
   
 
 end
