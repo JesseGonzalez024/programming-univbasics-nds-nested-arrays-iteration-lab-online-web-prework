@@ -38,12 +38,5 @@ def total_even_pairs(src)
     answer = src.sum 
   end
   answer
-    
-  
-  
-    
-
-
-
 
 end
