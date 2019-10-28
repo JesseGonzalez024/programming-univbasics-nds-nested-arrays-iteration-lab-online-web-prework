@@ -31,13 +31,12 @@ def total_even_pairs(src)
       
   total = 0
   
-  src.each { |array|
+  src.each do |array|
     if array[0] % 2 == 0 && array[1] % 2 == 0 
       total += array[0] + array[1]
   end
-    total
-      
-    
   
-
+    total
+    end
+    
 end
