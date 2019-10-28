@@ -30,13 +30,10 @@ def total_even_pairs(src)
   # this!
       
       
-  even_index = 0
-    
-  results = src.each % 2 
-       
-  while reults === even_index do 
-    answer = src.sum 
-  end
-  answer
+  src.each { |array|
+    if array[0] % 2 == 0 &
+      
+    array[1] % 2 == 0
+  
 
 end
